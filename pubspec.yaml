@@ -1,5 +1,5 @@
 name: unifind_flutter_app
-description: "A new Flutter project."
+description: "A campus lost and found application using Flutter, PHP, and SQLite."
 publish_to: 'none'
 version: 0.1.0+1
 

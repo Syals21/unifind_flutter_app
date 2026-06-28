@@ -194,12 +194,6 @@ class _LoginScreenState extends State<LoginScreen> {
                         child: const Text("Don't have an account? Register"),
                       ),
                     ),
-                    const Center(
-                      child: Text(
-                        'Demo: student@unifind.com / student123',
-                        style: TextStyle(fontSize: 12, color: Colors.grey),
-                      ),
-                    ),
                   ],
                 ),
               ),
